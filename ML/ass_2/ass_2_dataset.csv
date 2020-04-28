@@ -1,0 +1,15 @@
+age,income,gender,marital_status,buys
+<21,High,M,Single,N
+<21,High,M,Married,N
+21-35,High,M,Single,Y
+>35,Medium,M,Single,Y
+>35,Low,F,Single,Y
+>35,Low,F,Married,N
+21-35,Low,F,Married,Y
+<21,Medium,M,Single,N
+<21,Low,F,Married,Y
+>35,Medium,F,Single,Y
+<21,Medium,F,Married,Y
+21-35,Medium,M,Married,Y
+21-35,High,F,Single,Y
+>35,Medium,M,Married,N
